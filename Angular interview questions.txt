@@ -1,0 +1,20 @@
+1. How does Incremental DOM work? Can you compare this to Virtual DOM?
+2. Can you explain the role of NgModule in an Angular application?
+3. What are the pros and cons of using NgRx versus Angular services?
+4. What is the role of access and refresh tokens? How do you handle them in Angular?
+5. Describe the advantages and disadvantages of using RxJS compared to the usual «fetch»
+6. Explain the SOLID principles based on Angular7. How does an Angular application work?
+7. How does an Angular application work?8. Explain the concept of dependency injection?
+8. Explain the concept of dependency injection?
+9. Explain the MVVM architecture ?
+10. What is the purpose of the async pipe?
+11. How do you optimize the performance of an Angular application?
+12.Can you list the metrics of good code in Angular?
+13. What is Angular Universal?
+14. How would you implement authentication and authorization in an Angular application?
+15. How do you test an Angular application? Explain unit testing, integration testing, and end-to-end testing in Angular.?
+16. Describe the component lifecycle in Angular ?
+17. What principles should be followed to write good code in Angular?
+18. What is the difference between Promise and Observable?
+19. JIT vs AOT
+20. What are the benefits of lazy loading in Angular?
