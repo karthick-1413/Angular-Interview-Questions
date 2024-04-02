@@ -18,3 +18,6 @@
 18. What is the difference between Promise and Observable?
 19. JIT vs AOT
 20. What are the benefits of lazy loading in Angular?
+
+
+https://www.ngdevelop.tech/angular/history/ - angular history
